@@ -11,7 +11,7 @@ public class DemoBanque {
 		System.out.println(banqueBnp.getInfos());
 		System.out.println(banqueBnp.getVille());
 		
-		
+		System.out.println(banqueBnp);
 	}
 
 }
