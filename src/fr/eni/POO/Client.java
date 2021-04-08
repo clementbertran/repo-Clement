@@ -7,9 +7,9 @@ public class Client {
 	private int numeroDeCompte;
 	private String nomConseiller;
 	
-	public Client(String nom, String prenom, int numeroDeCompte) {
+	public Client(String prenom, int numeroDeCompte) {
 		super();
-		this.nom = nom;
+		this.nom = "Marcelle";
 		this.prenom = prenom;
 		this.numeroDeCompte = numeroDeCompte;
 	}
