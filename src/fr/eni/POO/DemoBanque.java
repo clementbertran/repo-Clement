@@ -1,4 +1,6 @@
 package fr.eni.POO;
+
+import fr.eni.POO.Banque;
 public class DemoBanque {
 
 	public static void main(String[] args) {
