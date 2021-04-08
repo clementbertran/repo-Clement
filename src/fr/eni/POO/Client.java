@@ -5,7 +5,7 @@ public class Client {
 	private String nom;
 	private String prenom;
 	private int numeroDeCompte;
-	
+	private String nomConseiller;
 	
 	public Client(String nom, String prenom, int numeroDeCompte) {
 		super();
